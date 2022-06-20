@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="assets/imagebunga/icon.png" type="">
 
-  <title> The Fleur </title>
+  <title> <?= $judul; ?> </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="assets/cssbunga/bootstrap.css" />
@@ -55,16 +55,16 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav  mx-auto ">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="<?= base_url('') . '' ?>">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="menu.html">Flowers</a>
+                <a class="nav-link" href="<?= base_url('') . 'menu' ?>">Flowers</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="<?= base_url('') . 'about' ?>">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">Order</a>
+                <a class="nav-link" href="<?= base_url('') . 'order' ?>">Order</a>
               </li>
             </ul>
             <div class="user_option">
@@ -140,8 +140,8 @@
     </header>
     <!-- end header section -->
 
-        <!-- slider section -->
-        <section class="slider_section ">
+    <!-- slider section -->
+    <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -150,7 +150,7 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                    Flower & Bouquet Expertise
+                      Flower & Bouquet Expertise
                     </h1>
                     <p>
                       Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
