@@ -4,16 +4,16 @@
     <div class="container">
         <div class="heading_container heading_center">
             <h2>
-                Our Menu
+                Our Flowers
             </h2>
         </div>
 
         <ul class="filters_menu">
             <li class="active" data-filter="*">All</li>
-            <li data-filter=".burger">Burger</li>
-            <li data-filter=".pizza">Pizza</li>
-            <li data-filter=".pasta">Pasta</li>
-            <li data-filter=".fries">Fries</li>
+            <li data-filter=".burger">Bouquet</li>
+            <li data-filter=".pizza">Vase</li>
+            <li data-filter=".pasta">Flower Basket</li>
+            <li data-filter=".fries">Artificial Flower</li>
         </ul>
 
         <div class="filters-content">
@@ -22,18 +22,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f1.png" alt="">
+                                <img src="assets/imagebunga/rose.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Pizza
+                                Classic Red Roses Bouquet
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Mawar merah tidak lekang oleh waktu, klasik dan ikonik. Merupakan salah satu isyarat romantis atau hadiah yang berarti untuk orang terdekat, buket dua lusin mawar ini pasti akan membuat orang yang Anda cintai terpukau.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $20
+                                        Rp. 980.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -98,18 +98,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f2.png" alt="">
+                                <img src="assets/imagebunga/sunflower.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Burger
+                                    Yellow Sunflowers Bouquet
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Bunga ringan yang menghidupkan setiap ruangan, dengan pelengkap bunga merah dan hijau. dipasangkan dengan kartu yang mengirimkan pesan yang tepat, itu cara yang berarti untuk membawa sinar matahari ke hari orang terkasih.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $15
+                                        Rp. 750.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -174,18 +174,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f3.png" alt="">
+                                <img src="assets/imagebunga/babyblue.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Pizza
+                                Ocean Blue Baby Breath Bouquet
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Bunga ini dapat didefinisikan sebagai nafas bayi. Nafas bayi dapat berarti sebuah kepolosan, kesucian hingga putih bersih. Bunga ini sangat cocok untuk merayakan acara yang menggembirakan.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $17
+                                        Rp. 650.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -250,18 +250,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f4.png" alt="">
+                                <img src="assets/imagebunga/tulip.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Pasta
+                                Picnic Tulips Vase
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Warna menawan Picnic Tulips ini bersinar paling terang dan indah di musim semi. Warna dari setiap bunganya memiliki makna yang berbeda. Cocok untuk perayaan ulang tahun yang menyenangkan, peringatan dan sebagai kejutan hari ibu.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $18
+                                        Rp. 800.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -326,18 +326,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f5.png" alt="">
+                                <img src="assets/imagebunga/lily.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    French Fries
+                                Peaceful White Lily Basket
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Bunga lily berarti perdamaian. Lily merupakan tanaman yang populer karena berbagai alasan. Tanaman ini memurnikan udara dan sangat mudah dirawat. Sangat cocok untuk membagikan pesan pada orang yang dicintai.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $10
+                                        Rp. 950.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -402,18 +402,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f6.png" alt="">
+                                <img src="assets/imagebunga/fake.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Pizza
+                                    Blue Fake Lakspur
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Bunga larkspur melambangkan kebahagiaan dan keceriaan. Bunga larkspur buatan ini menghadirkan keanggunan pada rangkaian bunga sehari-hari Anda, dan terlihat sangat memukau sendirian dalam vas kuncup.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $15
+                                        Rp. 500.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -478,18 +478,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f7.png" alt="">
+                                <img src="assets/imagebunga/basket.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Tasty Burger
+                                    Sunflowers Mix Basket
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Bunga ini juga menjadi simbol kebahagiaan, kegembiraan, dan keceriaan. Bunga matahari tidak mungkin digunakan untuk mengungkapkan rasa cinta, karena bunga ini tidak melambangkan kesan romantis. Bunga ini lebih cocok mewakili hubungan persahabatan.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $12
+                                        Rp. 1.200.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -554,18 +554,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f8.png" alt="">
+                                <img src="assets/imagebunga/gerbera.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Tasty Burger
+                                    Gerbera Daisy Bouquet
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                Simbol pada Bunga Gerbera adalah keindahan sederhana dari kehidupan yang sangat bahagia. Keberagaman warna pada Bunga Gerbera ini jika dijadikan satu bisa melambangkan keceriaan, inilah kenapa bunga ini sering dijadikan hadiah untuk menyemangati hari seseorang.
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $14
+                                        Rp. 850.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -630,18 +630,18 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/f9.png" alt="">
+                                <img src="assets/imagebunga/lovepurple.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
-                                    Delicious Pasta
+                                    Gracious Love Purple Basket
                                 </h5>
                                 <p>
-                                    Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                gracious love purple melambangkan keanggunan sang pemilik bunga yang mencerminkan kewibawaan dari tingkah laku dan kesederhanaan gaya. Bunga ini akan memancarkan kesan elegant dari sebuah ruangan  dimana bunga tersebut di tempatkan
                                 </p>
                                 <div class="options">
                                     <h6>
-                                        $10
+                                    Rp. 1.350.000,00
                                     </h6>
                                     <a href="">
                                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">

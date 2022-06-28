@@ -49,10 +49,22 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
+//$route['default_controller'] = 'admin';
 $route['default_controller'] = 'TokoBunga';
+//$route['default_controller'] = 'Autentifikasi';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['menu'] = 'TokoBunga/menu';
 $route['about'] = 'About';
 $route['order'] = 'TokoBunga/order';
+
+// admin
+$route['admin'] = 'AdminController';
+$route['admin/bunga'] = 'AdminController/bunga';
+$route['admin/user'] = 'AdminController/user';
+$route['admin/tambah-bunga'] = 'AdminController/tambahBunga';
+$route['admin/tambah-bunga-action'] = 'AdminController/tambahBungaAction';
+$route['admin/hapus-bunga/(:any)'] = 'AdminController/hapusBunga/$1';
+$route['admin/update-bunga/(:any)'] = 'AdminController/updateBunga/$1';
+$route['admin/update-bunga-action/(:any)'] = 'AdminController/updateBungaAction/$1';

@@ -98,18 +98,18 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="assets/imagebunga/f2.png" alt="">
+                  <img src="assets/imagebunga/sunflower.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
                     Yellow Sunflowers Bouquet
                   </h5>
                   <p>
-                  Bunga ringan yang menghidupkan setiap ruangan, dengan pelengkap bunga putih dan hijau. dipasangkan dengan kartu yang mengirimkan pesan yang tepat, itu cara yang berarti untuk membawa sinar matahari ke hari orang terkasih.
+                  Bunga ringan yang menghidupkan setiap ruangan, dengan pelengkap bunga merah dan hijau. dipasangkan dengan kartu yang mengirimkan pesan yang tepat, itu cara yang berarti untuk membawa sinar matahari ke hari orang terkasih.
                   </p>
                   <div class="options">
                     <h6>
-                      Rp. 450.000,00
+                      Rp. 750.000,00
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -174,7 +174,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="assets/imagebunga/f3.png" alt="">
+                  <img src="assets/imagebunga/babyblue.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -184,7 +184,7 @@
                   Bunga ini dapat didefinisikan sebagai nafas bayi. Nafas bayi dapat berarti sebuah kepolosan, kesucian hingga putih bersih. Bunga ini sangat cocok untuk merayakan acara yang menggembirakan.
                   <div class="options">
                     <h6>
-                      $17
+                      Rp. 650.000,00
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -249,7 +249,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="assets/imagebunga/f4.png" alt="">
+                  <img src="assets/imagebunga/tulip.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -260,7 +260,7 @@
                   </p>
                   <div class="options">
                     <h6>
-                      $18
+                      Rp. 800.000,00
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -325,7 +325,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="assets/imagebunga/f5.png" alt="">
+                  <img src="assets/imagebunga/lily.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -336,7 +336,7 @@
                   </p>
                   <div class="options">
                     <h6>
-                      $10
+                      Rp. 950.000,00
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -401,7 +401,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="assets/imagebunga/f6.png" alt="">
+                  <img src="assets/imagebunga/fake.png" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -412,7 +412,7 @@
                   </p>
                   <div class="options">
                     <h6>
-                      $15
+                      Rp. 500.000,00
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">

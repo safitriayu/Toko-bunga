@@ -6,26 +6,29 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.png" alt="">
+            <img src="assets/imagebunga/logo.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are The Fleur
               </h2>
             </div>
             <p>
-            The Fleur is a flower house located in South Jakarta, Fatmawati. We've been serving 
-        you since 2013 and it feels amazing to be a "Messenger" to our beloved customers for the past years. Professionally 
-        curated by a local expert The Fleur, with more than hundreds of bouquet, flower box, flower basket and gift 
-        options to choose from, whatever may be the occasion: seasons greeting, anniversary, graduation wishes, birthday, 
-        valentines, wedding, engagement, newborn, Christmas, Eid Mubarak and many more categories that cover the entire 
-        canvas of life. It is perhaps the most used and successful form of communicating your feelings to those you care about. 
-        At The Fleur, we realize the worth of your emotions which is what makes us the number one choice for 
-        sending out your love to dear ones. Be it a happy occasion or a sad one. The Fleur is just a click away. 
-        A good life is a collection of happy moments. Lets create your happy moments with us..
+            The Fleur adalah sebuah toko bunga yang terletak di Jakarta Selatan, Fatmawati. 
+        Kami telah melayani pelanggan sejak tahun 2020 dan rasanya luar biasa menjadi "Utusan" bagi pelanggan tercinta kami
+        selama beberapa tahun terakhir. secara profesional oleh ahli lokal The Fleur, dengan lebih dari ratusan karangan bunga, 
+        kotak bunga, keranjang bunga, dan hadiah pilihan untuk dipilih, apa pun acaranya seperti ucapan musim, hari jadi, 
+        ucapan selamat wisuda, ulang tahun, kasih sayang, pernikahan, pertunangan, bayi baru lahir, Natal, Idul Fitri dan banyak
+        lagi kategori yang mencakup keseluruhan kanvas kehidupan. Ini mungkin bentuk yang paling sering digunakan dan berhasil 
+        untuk mengomunikasikan perasaan anda kepada orang-orang yang anda sayangi.
+
+        Di The Fleur, kami menyadari keterkaitan Anda yang menjadikan kami pilihan nomor satu untuk mengirimkan cintamu 
+        kepada orang-orang tersayang. Baik itu momen bahagia atau sedih hanya dengan sekali klik. Kehidupan yang baik adalah 
+        kumpulan momen bahagia. Yuk ciptakan momen bahagiamu bersama kami..
+
             </p>
             <a href="">
               Read More
